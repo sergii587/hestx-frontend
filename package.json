@@ -1,0 +1,16 @@
+{
+  "name": "hestx-frontend",
+  "version": "1.0.0",
+  "description": "HestX Frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
